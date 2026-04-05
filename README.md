@@ -57,7 +57,7 @@ Obtain the Bank Marketing Dataset (specifically the dataset.csv file) from this 
 
 * A Feature Importance plot will be generated at the end to show which variables (e.g., education) most influenced the XGBoost model's decisions.
 
-## Help
+### Help
 
 * ModuleNotFoundError: Ensure imblearn is installed via pip install imbalanced-learn. In the code, it is imported as from imblearn....
 
