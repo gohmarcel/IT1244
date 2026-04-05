@@ -12,17 +12,11 @@ Before running the code, ensure you have a Python environment (e.g., Anaconda or
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 * Data Manipulation: numpy, pandas 
-
 
 * Visualization: matplotlib 
 
-
 * Machine Learning: scikit-learn, xgboost 
-
 
 * Imbalanced Data: imbalanced-learn 
 
