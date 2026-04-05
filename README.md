@@ -4,7 +4,7 @@ This is a machine learning pipeline developed for predicting bank telemarketing 
 
 ## Description
 
-This project implements a predictive modeling pipeline to determine the likelihood of a customer subscribing to a term deposit. It utilizes Decision Trees and XGBoost, incorporating data balancing via SMOTE and automated hyperparameter optimization.
+This project implements a predictive modeling pipeline to determine the likelihood of a customer subscribing to a term deposit. It utilises Logistic Regression,  Decision Trees and XGBoost, incorporating data balancing via SMOTE and automated hyperparameter optimization.
 
 ### Project Structure
 
@@ -67,7 +67,7 @@ Obtain the Bank Marketing Dataset (specifically the dataset.csv file) from this 
 
     * Economic indicators like emp.var.rate and nr.employed also remained high-impact predictors.
 
-### Help
+### Troubleshooting
 
 * ModuleNotFoundError: Ensure imblearn is installed via pip install imbalanced-learn. In the code, it is imported as from imblearn....
 
